@@ -1,16 +1,40 @@
+# Talk-A-Tive Chat App (MERN)
 
-# Talk-A-Tive
+<b>Talk to your friends! 🥳</b>
 
-Talk-a-tive is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+>Talk-a-tive is a <b>Full Stack Chatting App.</b> <br>
+>Uses Socket.io for <b>real time communication</b> and stores user details in encrypted format in <b>Mongo DB Database.</b>
+
+https://user-images.githubusercontent.com/47933193/147628723-be45d327-2abf-4ea7-8c34-c0cdeb09e1f5.mp4
+
+<br>
+
 ## Tech Stack
 
-**Client:** React JS
+Client: <b>`React JS`</b>
 
-**Server:** Node JS, Express JS
+Server: <b>`Node.js`</b>, <b>`Express.js`</b>
 
-**Database:** Mongo DB
-  
+Database: <b>`Mongo DB`</b>
+
+<br>
+
+## Features
+- <b>`Authentication`</b>
+  - Log In
+  - Sign Up
+- <b>`User Profile`</b>
+- <b>`Search Users`</b>
+- <b>`Real-time Chatting with Typing Indicator`</b>
+- <b>`Chat Notification`</b>
+
+- <b>`One-to-One Chat`</b>
+
+- <b>`Group Chat`</b>
+  - Create Group Chat
+  - Update Group Name
+  - Add / Remove Users from group
+
 ## Demo
 
 https://talk-a-tive.herokuapp.com/
